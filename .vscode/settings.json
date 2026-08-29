@@ -1,0 +1,8 @@
+{
+  "java.import.maven.enabled": true,
+  "java.project.sourcePaths": [
+    "demo/src/main/java",
+    "demo/src/test/java"
+  ],
+  "java.project.outputPath": "demo/target/classes"
+}
